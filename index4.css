@@ -1,0 +1,14 @@
+h1,h3{
+    color: red;
+}
+li,p{
+    color: brown;
+}
+/* 
+.ol{
+    padding: 8px;
+} */
+ul{
+    word-spacing:8px;
+    letter-spacing: 4px;
+}
